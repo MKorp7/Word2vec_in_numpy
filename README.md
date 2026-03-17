@@ -124,11 +124,11 @@ No GPU required.
 ## File structure
 
 ```
-word2vec.ipynb      — full implementation and walkthrough
-model.npz           — trained checkpoint (after running)
-embeddings.txt      — word2vec text format export (after running)
-loss.png            — training loss curve
-tsne.png            — t-SNE projection of top-300 embeddings
+word2vec_in_numpy.ipynb      — full implementation and walkthrough
+model.npz                    — trained checkpoint (after running)
+embeddings.txt               — word2vec text format export (after running)
+loss.png                     — training loss curve
+tsne.png                     — t-SNE projection of top-300 embeddings
 ```
 
 ---
