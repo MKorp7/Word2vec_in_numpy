@@ -125,10 +125,11 @@ No GPU required.
 
 ```
 word2vec_in_numpy.ipynb      — full implementation and walkthrough
-model.npz                    — trained checkpoint (after running)
-embeddings.txt               — word2vec text format export (after running)
+embeddings.txt.7z            — word2vec text format export (after running)
 loss.png                     — training loss curve
 tsne.png                     — t-SNE projection of top-300 embeddings
+
+model.npz  is stored here: https://drive.google.com/file/d/1DbgONq3PR6isSmYSoPUyzU8ko3_ewnoc/view?usp=sharing                  — trained checkpoint (after running)
 ```
 
 ---
